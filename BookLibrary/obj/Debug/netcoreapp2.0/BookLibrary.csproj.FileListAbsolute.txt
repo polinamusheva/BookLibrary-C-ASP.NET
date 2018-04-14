@@ -1,0 +1,12 @@
+D:\SOFTWARE TECHNOLOGIES\14.EX_C# Calculator\BookLibrary\BookLibrary\bin\Debug\netcoreapp2.0\BookLibrary.deps.json
+D:\SOFTWARE TECHNOLOGIES\14.EX_C# Calculator\BookLibrary\BookLibrary\bin\Debug\netcoreapp2.0\BookLibrary.runtimeconfig.json
+D:\SOFTWARE TECHNOLOGIES\14.EX_C# Calculator\BookLibrary\BookLibrary\bin\Debug\netcoreapp2.0\BookLibrary.runtimeconfig.dev.json
+D:\SOFTWARE TECHNOLOGIES\14.EX_C# Calculator\BookLibrary\BookLibrary\bin\Debug\netcoreapp2.0\BookLibrary.dll
+D:\SOFTWARE TECHNOLOGIES\14.EX_C# Calculator\BookLibrary\BookLibrary\obj\Debug\netcoreapp2.0\BookLibrary.csprojResolveAssemblyReference.cache
+D:\SOFTWARE TECHNOLOGIES\14.EX_C# Calculator\BookLibrary\BookLibrary\obj\Debug\netcoreapp2.0\BookLibrary.csproj.CoreCompileInputs.cache
+D:\SOFTWARE TECHNOLOGIES\14.EX_C# Calculator\BookLibrary\BookLibrary\obj\Debug\netcoreapp2.0\BookLibrary.AssemblyInfoInputs.cache
+D:\SOFTWARE TECHNOLOGIES\14.EX_C# Calculator\BookLibrary\BookLibrary\obj\Debug\netcoreapp2.0\BookLibrary.AssemblyInfo.cs
+D:\SOFTWARE TECHNOLOGIES\14.EX_C# Calculator\BookLibrary\BookLibrary\bin\Debug\netcoreapp2.0\BookLibrary.pdb
+D:\SOFTWARE TECHNOLOGIES\14.EX_C# Calculator\BookLibrary\BookLibrary\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\SOFTWARE TECHNOLOGIES\14.EX_C# Calculator\BookLibrary\BookLibrary\obj\Debug\netcoreapp2.0\BookLibrary.dll
+D:\SOFTWARE TECHNOLOGIES\14.EX_C# Calculator\BookLibrary\BookLibrary\obj\Debug\netcoreapp2.0\BookLibrary.pdb
